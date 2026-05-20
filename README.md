@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=MatanzaSytem%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=Matanza%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### 
 
